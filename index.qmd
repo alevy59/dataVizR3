@@ -1,12 +1,13 @@
 ---
 title: Universidade Federal Fluminense <br> Programa de formação de executivos <br> Ciência de dados
+data: today
 lang: pt-br
 subtitle: "Disciplina: Visualização de dados"
 author: "Marcus Ramalho e Ariel Levy"
 language: 
   title-block-author-single: "Professores: "
 ---
-
+Essa e minha versao
 
 # Aula 3 - Visualização de dados likert e deploy de um projeto QUARTO
 
