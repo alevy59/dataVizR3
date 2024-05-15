@@ -30,7 +30,7 @@ git config --global user.email "Se_email"
 [CLIQUE AQUI PARA CRIAR UMA CONTA NO GITHUB](https://github.com)
 
 </details>
-
+# detalhe
 ### Objetivo
 
 1.  Aprender a criar gráficos para visualização de dados do tipo likert
